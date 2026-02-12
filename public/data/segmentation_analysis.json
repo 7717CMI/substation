@@ -1,0 +1,75 @@
+{
+  "Global": {
+    "By Offering": {
+      "Hardware": {
+        "Sensors and Transducers": {},
+        "Data Acquisition Units and RTUs": {},
+        "Power Quality and Disturbance Monitoring Devices": {},
+        "Intelligent Electronic Devices (IEDs)": {},
+        "Communication Gateways and Edge Computing Devices": {}
+      },
+      "Software": {
+        "Monitoring and Visualization Platforms": {},
+        "Analytics and Fault Diagnosis Software": {},
+        "Asset Management and CMMS Integrations": {},
+        "Others (Cybersecurity Software for Substations; etc.)": {}
+      },
+      "Services": {
+        "Managed Services": {},
+        "Professional Services": {}
+      }
+    },
+    "By Functionality": {},
+    "By Deployment Model": {},
+    "By Communication and Integration Layer": {},
+    "By Substation Type": {},
+    "By Voltage Range": {},
+    "By End User": {
+      "Industrial Substation": {
+        "Oil and Gas": {},
+        "Mining; Metals": {},
+        "Manufacturing": {}
+      },
+      "Infrastructure": {
+        "Railways": {},
+        "Metros": {},
+        "Airports": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Argentina": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      }
+    }
+  }
+}
